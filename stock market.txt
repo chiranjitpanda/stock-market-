@@ -1,0 +1,7 @@
+1. we will collect the stock data from apple company that is AAPL
+2. preprocess the data and before divided the data into train and test data.
+3. create an stacked LSTM model
+4. predict the test data  and plot the count.
+5. predict the data for future in 30 days and plot the output. 
+
+
